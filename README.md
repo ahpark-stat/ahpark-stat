@@ -20,7 +20,7 @@
 
 ### Seoul Real Estate Policy Analysis
 - 토지거래허가구역 확대 정책 효과 분석
-- 서울 아파트 실거래가 데이터 활
+- 서울 아파트 실거래가 데이터 활용
 
 ### Strategic Mineral Import Analysis
 - 한국 전략광물 수입 집중도 분석
