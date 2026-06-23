@@ -18,9 +18,12 @@
 
 ### M7 Bubble Detection
 - M7 종목 버블 vs. Justified Growth 분류 및 머신러닝 기반 버블 탐지
+- Random Forest 기반 버블 탐지 모델 구축
+- Conditional VaR 및 Tail Risk 분석
 
 ### Seoul Real Estate Policy Analysis
 - 2025년 토지거래허가구역 확대 정책의 효과를 DiD로 실증 분석
+- 거래량 감소 및 풍선효과 실증 검증
 
 ### Strategic Mineral Import Analysis
 - 한국 전략광물 수입 집중도 분석
